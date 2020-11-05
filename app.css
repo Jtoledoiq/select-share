@@ -1,0 +1,20 @@
+#map {
+    width: 90%;
+    height: 20rem;
+    border:1px solid #ccc;
+    background-color: cornsilk;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem auto;
+
+}
+
+form {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin: auto;
+}
